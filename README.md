@@ -1,5 +1,3 @@
-# DesafiosAssembly
-
 # Descrição
 
 Sistema que simula a busca e substituição de páginas na memória
