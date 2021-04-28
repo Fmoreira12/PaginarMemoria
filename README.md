@@ -23,7 +23,7 @@ https://linuxconfig.org/ubuntu-20-04-eclipse-installation (Linux Ubuntu)
 
 ## Exemplo de execução
 
-[![](http://img.youtube.com/vi/Fc5hx9Qm8E8/0.jpg)](http://www.youtube.com/watch?v=Fc5hx9Qm8E8 "")
+[![](http://img.youtube.com/vi/ytYXDrCJd78/0.jpg)](http://www.youtube.com/watch?v=ytYXDrCJd78 "")
 
 
 
