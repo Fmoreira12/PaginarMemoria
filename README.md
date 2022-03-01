@@ -11,8 +11,8 @@ Eclipse
 
 Guia de Instalação:
 
-https://www.eclipse.org/downloads/ (Windows)
-https://linuxconfig.org/ubuntu-20-04-eclipse-installation (Linux Ubuntu)
+- https://www.eclipse.org/downloads/ (Windows)
+- https://linuxconfig.org/ubuntu-20-04-eclipse-installation (Linux Ubuntu)
 
 ## Como executar
 
