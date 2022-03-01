@@ -16,10 +16,10 @@ Guia de Instalação:
 
 ## Como executar
 
-### 1 Faça o download do Eclipse em alguns dos links acima de acordo com o Sistema Operacional utilizado;
-### 2 Abra o Eclipse e clique em File;
-### 3 Importe o Projeto;
-### 4 Clica em run
+#### 1 Faça o download do Eclipse em alguns dos links acima de acordo com o Sistema Operacional utilizado;
+#### 2 Abra o Eclipse e clique em File;
+#### 3 Importe o Projeto;
+#### 4 Clica em run
 
 ## Exemplo de execução
 
