@@ -22,8 +22,7 @@ Guia de Instalação:
 #### 4 Clica em run.
 
 ## Exemplo de execução
-
-[![](http://img.youtube.com/vi/ytYXDrCJd78/0.jpg)](http://www.youtube.com/watch?v=ytYXDrCJd78 "")
+https://youtu.be/ytYXDrCJd78
 
 
 
